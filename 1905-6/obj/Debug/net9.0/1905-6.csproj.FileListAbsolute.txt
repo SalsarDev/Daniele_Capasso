@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\bin\Debug\net9.0\1905-6.exe
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\bin\Debug\net9.0\1905-6.deps.json
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\bin\Debug\net9.0\1905-6.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\bin\Debug\net9.0\1905-6.dll
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\bin\Debug\net9.0\1905-6.pdb
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.dll
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\refint\1905-6.dll
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.pdb
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\1905-6.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\1905\1905-6\obj\Debug\net9.0\ref\1905-6.dll
